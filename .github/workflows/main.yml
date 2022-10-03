@@ -31,8 +31,7 @@ jobs:
       - name: Build with Buildozer
         uses: ArtemSBulgakov/buildozer-action@v1
         id: buildozer
-        env: 
-          APP_ANDROID_ARCH: armeabi-v7a
+        
         with:
           command: buildozer android debug
           buildozer_version: master
