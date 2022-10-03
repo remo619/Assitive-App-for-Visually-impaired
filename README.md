@@ -1,2 +1,1 @@
-# ETA
-Electronic Travel Aid for Visually Impaired People
+# Assistive app for Visually Impaired people
